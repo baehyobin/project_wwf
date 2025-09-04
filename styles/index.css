@@ -119,15 +119,15 @@
 }
 #wrap .row5 #wwf_message2 .msg_card_wrap li {background-color: var(--color-white); padding-bottom: 15px;}
 #wrap .row5 #wwf_message2 .msg_card_wrap li:nth-child(1) .card_img{
-    background-image: url(/image/card001_desk.png);
+    background-image: url(../image/card001_desk.png);
     background-repeat: no-repeat;
 }
 #wrap .row5 #wwf_message2 .msg_card_wrap li:nth-child(2) .card_img{
-    background-image: url(/image/card002_desk.png);
+    background-image: url(../image/card002_desk.png);
     background-repeat: no-repeat;
 }
 #wrap .row5 #wwf_message2 .msg_card_wrap li:nth-child(3) .card_img{
-    background-image: url(/image/card003_desk.png);
+    background-image: url(../image/card003_desk.png);
     background-repeat: no-repeat;
 }
 #wrap .row5 #wwf_message2 .msg_card_wrap li dl:after {
