@@ -31,7 +31,7 @@
 #wrap .row1 #main_visual .support_question_btn img {}
 #wrap .row1 #main_visual .support_question_btn span {}
 /* --------------------------------2행 */
-#wrap .row2 {background-image: url(/image/quiz_bg.png);}
+#wrap .row2 {background-image: url(../image/quiz_bg.png);}
 #wrap .row2 #quiz {
     display: grid;
     grid-template-columns:repeat(2, 1fr);
@@ -84,14 +84,14 @@
 #wrap .row2 #quiz .quiz_current .status dd span {font-weight: var(--weight-bold);color: var(--color-point-orange1);}
 #wrap .row2 #quiz .quiz_current p {float: right; margin-top: 10px;}
 /* --------------------------------3행 */
-#wrap .row3 {background-image: url(/image/video_bg.png);}
+#wrap .row3 {background-image: url(../image/video_bg.png);}
 #wrap .row3 #video {display: flex; flex-flow: column nowrap; align-items: center;}
 #wrap .row3 #video h2 {}
 #wrap .row3 #video iframe {width: 500px; height: 333px; margin-bottom: 50px;}
 #wrap .row3 #video .support_btn {}
 #wrap .row3 #video .support_btn img {}
 /* --------------------------------4행 */
-#wrap .row4 {background-image: url(/image/50bg.png);} 
+#wrap .row4 {background-image: url(../image/50bg.png);} 
 #wrap .row4 #wwf_message1 {color: var(--color-white);}
 #wrap .row4 #wwf_message1 h2 {text-align: left;}
 #wrap .row4 #wwf_message1 h2 em {position: relative;}
