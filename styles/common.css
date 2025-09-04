@@ -39,8 +39,8 @@
 #wrap .bg .container {
     max-width: 1250px; min-width: 320px;
     height: 100vh; margin: 0 auto;
-    background-color: rgba(255,255,0,0.5);/* 테스트용 */
-    padding: 100px 0;
+    /* background-color: rgba(255,255,0,0.5); *//* 테스트용 */
+    padding: 100px 0; overflow: hidden;
 }
 #wrap .bg .container .support_btn {
     background: linear-gradient(var(--color-point-orange2),var(--color-point-orange1));
